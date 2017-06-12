@@ -4,3 +4,4 @@ applications:
   memory: 64M
   path: .
   instances: 1
+  buildpack: https://github.com/adnanzzz11/swift-buildpack
