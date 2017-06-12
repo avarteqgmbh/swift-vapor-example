@@ -1,0 +1,6 @@
+---
+applications:
+- name: swift_kitura_app
+  memory: 64M
+  path: .
+  instances: 1

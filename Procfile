@@ -1,1 +1,1 @@
-web: myapp --config:app.port=$PORT
+web: kituraHelloWorld --config:app.port=8080

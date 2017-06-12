@@ -1,0 +1,79 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CCurl",
+        "repositoryURL": "https://github.com/IBM-Swift/CCurl.git",
+        "state": {
+          "branch": null,
+          "revision": "3cfb7521cf0bb77a2de8f9fe9ca0651360b40973",
+          "version": "0.2.3"
+        }
+      },
+      {
+        "package": "Kitura",
+        "repositoryURL": "https://github.com/IBM-Swift/Kitura.git",
+        "state": {
+          "branch": null,
+          "revision": "e796e134729a73c80ff5b099b6c4d1869c51eef8",
+          "version": "1.7.3"
+        }
+      },
+      {
+        "package": "Kitura-TemplateEngine",
+        "repositoryURL": "https://github.com/IBM-Swift/Kitura-TemplateEngine.git",
+        "state": {
+          "branch": null,
+          "revision": "6e4943a4e7d54438e010ada0d845212f73e00e51",
+          "version": "1.7.0"
+        }
+      },
+      {
+        "package": "Kitura-net",
+        "repositoryURL": "https://github.com/IBM-Swift/Kitura-net.git",
+        "state": {
+          "branch": null,
+          "revision": "2d3d7acd97e861ab5344d1196ff69458d2c8a95f",
+          "version": "1.7.7"
+        }
+      },
+      {
+        "package": "LoggerAPI",
+        "repositoryURL": "https://github.com/IBM-Swift/LoggerAPI.git",
+        "state": {
+          "branch": null,
+          "revision": "51bca3a997a299ab7291c62bf91ec9c8e299f42a",
+          "version": "1.7.0"
+        }
+      },
+      {
+        "package": "SSLService",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueSSLService.git",
+        "state": {
+          "branch": null,
+          "revision": "f22cfd13e8ed81215281739c49cc70c110ee3bff",
+          "version": "0.12.37"
+        }
+      },
+      {
+        "package": "Socket",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueSocket.git",
+        "state": {
+          "branch": null,
+          "revision": "271a7b7292cb20138d098cc2b8764f9d6fbb669c",
+          "version": "0.12.52"
+        }
+      },
+      {
+        "package": "SwiftyJSON",
+        "repositoryURL": "https://github.com/IBM-Swift/SwiftyJSON.git",
+        "state": {
+          "branch": null,
+          "revision": "d5f2741e9293775d3b245a4c07fd3d2435b630d9",
+          "version": "16.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
